@@ -133,7 +133,7 @@ USE_TZ = True
 
 EMAIL_HOST='sptm.gmail.com'
 EMAIL_HOST_USER='vijay.yajurvdi@gmail.com'
-EMAIL_HOST_PASSWORD='countryinn@20182018'
+EMAIL_HOST_PASSWORD='**********'
 EMAIL_PORT=587
 EMAIL_USE_TLS=True
 EMAIL_BACKEND='django.core.mail.backends.smtp.EmailBackend'
