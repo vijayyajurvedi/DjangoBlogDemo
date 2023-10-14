@@ -1,0 +1,25 @@
+body{
+
+    height: 100vh;
+    background-color: #2d3436;
+    background-image: url('../images/bg.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.img-thumbnail {
+    padding: 1.2rem;
+    /* background-color: #fff; */
+    border: 35px solid green;
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+    margin-right: auto!important;
+    margin-left: auto!important;
+    display: block!important;
+}
+
+p{
+    color: white;
+    font-size: larger;
+}
